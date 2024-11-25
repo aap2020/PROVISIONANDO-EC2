@@ -88,7 +88,7 @@ Neste desafio mostra que é possível subir uma instância EC2 para atender a ne
 os requisitos do desafio proposto foi atendido 
 
 # Autor
-ALmir Alves 
+ALmir ALves 
 
 
 
